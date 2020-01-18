@@ -1,0 +1,11 @@
+{
+  "name": "nova-template",
+  "version": "0.1.0",
+  "description": "A simple Nova extension template",
+  "scripts": {
+    "test:lint": "eslint"
+  },
+  "keywords": [],
+  "author": "Ashur Cabrera",
+  "license": "ISC"
+}

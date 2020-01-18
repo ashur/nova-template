@@ -1,0 +1,18 @@
+{
+	"identifier": "ashur.Template",
+	"name": "Template",
+	"vendor": "Ashur Cabrera",
+	"description": "A simple Nova extension template",
+	"version": "0.1.0",
+	"categories": [],
+
+	"homepage": "https://github.com/ashur/nova-template",
+	"repository": "git@github.com:ashur/nova-template.git",
+	"bugs": "https://github.com/ashur/nova-template/issues",
+
+	"main": "main.js",
+
+	"config": [],
+
+	"entitlements": {}
+}
